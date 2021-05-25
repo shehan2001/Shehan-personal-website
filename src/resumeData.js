@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend Developer, Backend Developer and Android Mobile Developer ",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like dabbling in various parts of front-end and back-end development and like to learn about new technologies, in my free time i like researching more about consumer technolody, Automible, sport such as Formula e and football. I do amatuer photography for fun. ",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           // "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently a 2nd year student at Informatics Institute of Technology(IIT).",
     "address":"Colombo, Sri Lanka",
     "website":"https://github.com/shehan2001",
     "education":[
